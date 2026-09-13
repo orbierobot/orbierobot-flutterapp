@@ -1,6 +1,5 @@
 <div align="center">
   <br/>
-  <img src="assets/images/pawme_logo.png" alt="Orbie Logo" width="120" height="120"/>
   <h1>Orbie</h1>
   <p><strong>Your Open-Source Robot Companion</strong></p>
   <p>
